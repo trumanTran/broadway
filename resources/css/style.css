@@ -1,18 +1,40 @@
-body{
+body {
   text-align: center;
   font-family: Helvetica;
 }
 
-.header{
+.header {
   background-image: url('../flatiron.png');
   color: white;
 }
 
-h1{
+h1 {
   font-size: 70px;
   font-weight: bold;
 }
 
-.nav{
-  font-size: 18px
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
+
+.subsection p {
+  font-size: 14px;
+}
+
+.footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
